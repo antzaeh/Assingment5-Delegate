@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EventDelegate.cs" />
     <Compile Include="CustomEvent.cs" />
     <Compile Include="CustomEventHandler.cs" />
     <Compile Include="Program.cs" />
